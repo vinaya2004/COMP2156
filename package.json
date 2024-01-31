@@ -1,0 +1,20 @@
+{
+  "name": "comp2156",
+  "version": "1.0.0",
+  "description": " COMP2156 LAB EXE - 4",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vinaya2004/COMP2156.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vinaya2004/COMP2156/issues"
+  },
+  "homepage": "https://github.com/vinaya2004/COMP2156#readme"
+}
