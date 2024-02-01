@@ -1,4 +1,4 @@
-name: Devops lab ecercise
+name: DevOps Lab Exercise
 run-name: ${{ github.actor }} is testing out GitHub Actions 🚀
 # Controls when the workflow will run
 on:
@@ -21,3 +21,4 @@ jobs:
       - run: npm ci
       - run: npm run build --if-present
       - run: npm test
+      
