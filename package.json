@@ -4,7 +4,8 @@
   "description": " COMP2156 LAB EXE - 4",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\""
+    "test": "echo \"Error: no test specified\"",
+    "ci": "echo\"no ci configured\""
   },
   "repository": {
     "type": "git",
