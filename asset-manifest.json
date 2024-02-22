@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/COMP2156-dep-inclusions/static/css/main.f48a98bf.css",
+    "main.js": "/COMP2156-dep-inclusions/static/js/main.6ae53e25.js",
+    "index.html": "/COMP2156-dep-inclusions/index.html",
+    "main.f48a98bf.css.map": "/COMP2156-dep-inclusions/static/css/main.f48a98bf.css.map",
+    "main.6ae53e25.js.map": "/COMP2156-dep-inclusions/static/js/main.6ae53e25.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f48a98bf.css",
+    "static/js/main.6ae53e25.js"
+  ]
+}
